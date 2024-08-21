@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
-<p align="center">  I'm a Software Engineer. For a few years, I have been studying programming on and off. This year, I'm studying to become a Full stack developer and AI. </p>
+<p align="center">  I'm a Software Engineer. For a few years, I have been studying programming for almost 3 years now. This year, I'm studying to become a Full stack developer and AI. </p>
 
 <p align="center">Hope to get better and better each day. Feel free to reach me always. Looking forward to exchange knowledge.</p>
 
@@ -10,7 +10,7 @@
 
 <div align="center" style="display: inline_block"><br>
   <div align="center">
-    <a href="https://twitter.com/Gauravs44297989" target="_blank"> <img height="30" src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<!--     <a href="https://twitter.com/Gauravs44297989" target="_blank"> <img height="30" src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
     <a href="https://www.linkedin.com/in/gauravs-2k/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:gauravs260668@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "https://dev.to/gauravs25052000"><img height="30" src="https://img.shields.io/badge/-Dev.to-%23333?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
