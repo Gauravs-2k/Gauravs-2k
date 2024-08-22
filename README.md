@@ -27,7 +27,7 @@
     <img alt="aws" height="30" width="40" src="    https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg
 " />
     <img alt="arduino" height="30" width="40" src="    https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/arduino/arduino-original-wordmark.svg" />
-    <img alt="bootstrap" height="30" width="40" src="    https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" />
+    <img alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" />
     <img alt="Canva" height="30" width="40" src="    https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/canva/canva-original.svg" />
      <img alt="Codepen" height="30" width="40" src="    https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/codepen/codepen-original.svg" />
      <img alt="dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dart/dart-original.svg
